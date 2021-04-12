@@ -18,6 +18,12 @@
  */
 
 function removeKFromList(/* l, k */) {
+  // const arr = [...l];
+  // arr.forEach((el, index) => {
+  //   if (el===l) {
+  //
+  //   }
+  // })
   throw new Error('Not implemented');
 }
 
